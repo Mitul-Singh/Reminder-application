@@ -27,29 +27,29 @@ A simple reminder application built with Python that helps you keep track of tas
 2. **Install Dependencies:**
    - Install the required dependencies using pip: pip install plyer
 
-###Usage
+**Usage**
 1. Run the Application:
 
--Navigate to the directory containing your script and run:
+   - Navigate to the directory containing your script and run:
 
--python reminder_app.py
+   - python reminder_app.py
 
 2. Menu Options:
-   -Add a new Task:
-      --Enter your task description.
-       --Optionally, enter the reminder time in HH format for notification.
+   - Add a new Task:
+      - Enter your task description.
+       - Optionally, enter the reminder time in HH format for notification.
 
-   -View all tasks:
-      --View the list of all tasks along with their reminder times if set.
+   - View all tasks:
+      - View the list of all tasks along with their reminder times if set.
 
-   -Remove a Task:
-      --Remove a task by entering its number from the list.
+   - Remove a Task:
+      - Remove a task by entering its number from the list.
 
-   -Exit:
-      --Exit the application.
+   - Exit:
+      - Exit the application.
 
-##Contributing
-  -Contributions are welcome! Please feel free to submit issues and pull requests.
+**Contributing**
+  - Contributions are welcome! Please feel free to submit issues and pull requests.
 
     1. Fork the repository.
     2. Create your feature branch: git checkout -b feature/your-feature.

